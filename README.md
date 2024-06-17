@@ -29,4 +29,7 @@ This is a simplified version of an inventory and manufacturing unit management s
  ```bash
  npm install
 
+### Run Project
+    ```bash
+    npm run dev
 
