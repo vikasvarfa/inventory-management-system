@@ -31,6 +31,6 @@ This is a simplified version of an inventory and manufacturing unit management s
 ```
 
 ### Run Project
-    ```bash
+  ```bash
     npm run dev
 
