@@ -28,11 +28,11 @@ This is a simplified version of an inventory and manufacturing unit management s
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/inventory-management-system.git
+   git clone https://github.com/vikasvarfa/inventory-management-system.git
    cd inventory-management-system
 
 ### Install dependencies:
  ```bash
  npm install
 
- 
+
