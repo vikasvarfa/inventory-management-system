@@ -1,5 +1,8 @@
 # Inventory and Manufacturing Management System
 
+## Video
+https://github.com/vikasvarfa/inventory-management-system/assets/101801409/60403952-03e3-4f4f-87fd-533326c05000
+
 ## Description
 This is a simplified version of an inventory and manufacturing unit management system focusing on an order system. The project is built using React and Next.js, with Tailwind CSS for styling. It demonstrates proficiency in array and object manipulation, filtering, mapping, and includes some design logic.
 
