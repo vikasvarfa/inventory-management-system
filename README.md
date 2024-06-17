@@ -28,6 +28,7 @@ This is a simplified version of an inventory and manufacturing unit management s
 ### Install dependencies:
  ```bash
  npm install
+```
 
 ### Run Project
     ```bash
